@@ -79,9 +79,7 @@ https://www.yupi.live:1936/tvmigente/tvmigente/playlist.m3u8
 http://64.71.148.2:1935/latin/encoder44/playlist.m3u8
 #EXTINF:-1,RCN
 http://streamingtv.vip:8080/AndRen26/FjQXmT9vLBpS/69266
-#EXTINF:-1,CARACOL INTERNACIONAL
-https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/27978
-#EXTINF:-1 ,TELEMUNDO
+#EXTINF:-1 ,TELEMUNDO INTERNACIONAL
 http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
 #EXTINF:-1,UNIVISION
 http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
@@ -111,10 +109,10 @@ http://168.227.22.18:1935/live/mobile-035/playlist.m3u8
 http://streamingtv.vip:8080/AndRen26/FjQXmT9vLBpS/1274
 #EXTINF:-1,CINECANAL
 http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.periodicoequilibrium.com/wp-content/uploads/2014/03/Captura9.jpg",TVCA57
-https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",PARAMOUN NETWORK
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.periodicoequilibrium.com/wp-content/uploads/2014/03/Captura9.jpg",TVCA57
+https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 ,STUDIO UNIVERSAL
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 #EXTINF:-1,TNT
