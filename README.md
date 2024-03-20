@@ -89,17 +89,17 @@ https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/27110
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
 #EXTINF:-1,A&E
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
-#EXTINF:-1 ,ANIMAL PLANET
+#EXTINF:-1 ,ANIMAL PLANET DISCOVERY
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/27971
-#EXTINF:-1 ,HISTORY
+#EXTINF:-1 ,H
 http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
-#EXTINF:-1 ,HISTORY 2
+#EXTINF:-1 ,H2
 http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
-#EXTINF:-1 ,NATGEO
+#EXTINF:-1 ,NATIONAL GEOGRAPHIC
 http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
 #EXTINF:-1 ,DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 ,WARNER
+#EXTINF:-1 ,WARNER TV
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/59.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg",STAR CHANNEL
 http://streamingtv.vip:8080/AndRen26/FjQXmT9vLBpS/147538
@@ -119,7 +119,7 @@ http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1,CINEMAX
 http://live1.cl.cdn.lla.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,Space
+#EXTINF:-1,SPACE
 http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
 #EXTINF:-1,DE PELICULA
 http://179.1.201.133:54986/play/a065/index.m3u8
