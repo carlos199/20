@@ -93,13 +93,13 @@ http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/27971
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/1200px-History_%282021%29.svg.png",H
 http://168.227.22.18:1935/live/mobile-058/playlist.m3u8
-#EXTINF:-1 ,H2 HISTORY
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/H2_channel_logo.PNG",H2 HISTORY
 http://168.227.22.18:1935/live/mobile-157/playlist.m3u8
-#EXTINF:-1 ,NATGEO NATIONAL GEOGRAPHIC
+#EXTINF:-1 tvg-logo="https://www.nationalgeographicla.com/images/logo.png",NATGEO NATIONAL GEOGRAPHIC
 http://168.227.22.18:1935/live/mobile-091/playlist.m3u8
 #EXTINF:-1 ,DW
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 ,WARNER TV CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Warner2018LA.png/800px-Warner2018LA.png",WARNER TV CHANNEL
 http://167.114.156.136:25461/live/INFINITV/ZX89NM22/59.ts
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/Star_Channel_2020.svg",STAR CHANNEL
 http://streamingtv.vip:8080/AndRen26/FjQXmT9vLBpS/147538
@@ -119,7 +119,7 @@ http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1,CINEMAX
 http://live1.cl.cdn.lla.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,SPACE
+#EXTINF:-1,SPACE CHANNEL
 http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
 #EXTINF:-1,DE PELICULA
 http://179.1.201.133:54986/play/a065/index.m3u8
