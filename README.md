@@ -25,7 +25,7 @@ https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
 #EXTINF:-1,Cartoon Network
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
-#EXTINF:-1,Nickelodeon
+#EXTINF:-1,NICK
 http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
 #EXTINF:-1,DISNEY CHANNEL
 http://190.61.43.117:45000/play/a06b
@@ -119,7 +119,7 @@ http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1,CINEMAX
 http://live1.cl.cdn.lla.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
-#EXTINF:-1,SPACE CHANNEL
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png",SPACE CHANNEL
 http://168.227.22.18:1935/live/mobile-003/playlist.m3u8
 #EXTINF:-1,DE PELICULA
 http://179.1.201.133:54986/play/a065/index.m3u8
