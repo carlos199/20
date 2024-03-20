@@ -25,7 +25,7 @@ https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
 #EXTINF:-1,Cartoon Network
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
-#EXTINF:-1,NICK
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",NICK | NICKELODEON
 http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
 #EXTINF:-1,DISNEY CHANNEL
 http://190.61.43.117:45000/play/a06b
