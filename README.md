@@ -23,11 +23,11 @@ http://138.59.177.34:8000/play/a00x/index.m3u8
 https://streaming.grupocsanetwork.com:19360/canal11/canal11.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/Canal_12_El_Salvador_2018.png",CANAL 12
 http://168.227.22.18:1935/live/mobile-082/playlist.m3u8
-#EXTINF:-1,Cartoon Network Channel
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/Cartoon_Network_2010_logo.svg",Cartoon Network Channel
 http://168.227.22.18:1935/live/mobile-029/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/1200px-Nickelodeon_2023_logo_%28outline%29.svg.png",NICK | NICKELODEON
 http://168.227.22.18:1935/live/mobile-112/playlist.m3u8
-#EXTINF:-1,DISNEY CHANNEL TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d2/2019_Disney_Channel_logo.svg",DISNEY CHANNEL TV
 http://190.61.43.117:45000/play/a06b
 #EXTINF:-1,DISTRITO COMEDIA
 https://linear-405.frequency.stream/mt/studio/405/hls/master/playlist.m3u8
@@ -87,7 +87,7 @@ http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/27110
 #EXTINF:-1,UNICABLE
 https://linear-423.frequency.stream/mt/studio/423/hls/master/playlist.m3u8
-#EXTINF:-1,A&E CHANNEL
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/951900727487680513/iVrvsXOo_400x400.jpg",A&E CHANNEL
 http://168.227.22.18:1935/live/mobile-158/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/800px-2018_Animal_Planet_logo.svg.png",ANIMAL PLANET DISCOVERY
 https://6oclock.xyz:8443/gZpw5weynu/C6gJj6DfxV/27971
