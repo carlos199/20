@@ -41,12 +41,12 @@ https://mgv-channel19.akamaized.net/hls/live/2093190/MGV_CHANNEL19/master.m3u8
 http://streamingtv.vip:8080/AndRen26/FjQXmT9vLBpS/160234
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bb/Canal-21.png",MEGAVISION CANAL 21
 https://mgv-channel21.akamaized.net/hls/live/2093191/MGV_CHANNEL21/master.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d4/Telecentro_Dominicana.png",TELECENTRO
-http://streamingtv.vip:8080/AndRen26/FjQXmT9vLBpS/100693
-#EXTINF:-1 tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png",TVO CANAL 23
-http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
 #EXTINF:-1,TELETICA
 http://45.166.92.22:58001/play/a059/index.m3u8
+#EXTINF:-1 tvg-logo="https://tvocanal23.com/wp-content/uploads/2020/10/logo.png",TVO CANAL 23
+http://168.227.22.18:1935/live/mobile-071/playlist.m3u8
+#EXTINF:-1,ATV
+http://streamingtv.vip:8080/AndRen26/FjQXmT9vLBpS/330716
 #EXTINF:-1 tvg-logo="https://i0.wp.com/directostv.teleame.com/wp-content/uploads/2018/01/Orbita-TV-en-directo-Online.png?fit=1920%2C1080&ssl=1",ORBITA TV CANAL 25
 https://ssh101.bozztv.com/ssh101/OrbitaTV25/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://photos.live-tv-channels.org/tv-logo/cr-extreme-tv-4084-768x576.jpg",EXTREMA
@@ -57,8 +57,6 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/p
 https://www.yupi.live:1936/tvftv/tvftv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlAwfz6rLpUr48-parZDIcPPGdGLRsfPLSo-cj1GkrwTLTDlTfrYFrlyq8uJNZHFktgY&usqp=CAU",EL CAMINO TV
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-#EXTINF:-1,ATV
-http://streamingtv.vip:8080/AndRen26/FjQXmT9vLBpS/330716
 #EXTINF:-1,ECUAVISA
 https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 #EXTINF:-1,TLNOVELAS
@@ -67,6 +65,8 @@ http://streamingtv.vip:8080/AndRen26/FjQXmT9vLBpS/63200
 https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 #EXTINF:-1,PASIONES
 http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
+#EXTINF:-1,RCN
+http://streamingtv.vip:8080/AndRen26/FjQXmT9vLBpS/69266
 #EXTINF:-1 tvg-logo="https://alianzafc.com.sv/wp-content/uploads/2023/04/ColorLogoTCS.png",TCS PLUS
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png",WOW TV
@@ -77,8 +77,6 @@ http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
 https://www.yupi.live:1936/tvmigente/tvmigente/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/TRV-El-Salvador-en-vivo-Online.png",TRV
 http://64.71.148.2:1935/latin/encoder44/playlist.m3u8
-#EXTINF:-1,RCN
-http://streamingtv.vip:8080/AndRen26/FjQXmT9vLBpS/69266
 #EXTINF:-1 ,TELEMUNDO INTERNACIONAL
 http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
 #EXTINF:-1,UNIVISION
@@ -111,10 +109,10 @@ http://streamingtv.vip:8080/AndRen26/FjQXmT9vLBpS/1274
 http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/1200px-Paramount_Network.svg.png",PARAMOUN NETWORK
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.periodicoequilibrium.com/wp-content/uploads/2014/03/Captura9.jpg",TVCA57
-https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1 ,STUDIO UNIVERSAL
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.periodicoequilibrium.com/wp-content/uploads/2014/03/Captura9.jpg",TVCA57
+https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1,TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
 #EXTINF:-1,CINEMAX
