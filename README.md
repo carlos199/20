@@ -57,8 +57,6 @@ https://dacastmmd.mmdlive.lldns.net/dacastmmd/7e84ed301b194b7b81e86f85bb2c3a33/p
 https://www.yupi.live:1936/tvftv/tvftv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmlAwfz6rLpUr48-parZDIcPPGdGLRsfPLSo-cj1GkrwTLTDlTfrYFrlyq8uJNZHFktgY&usqp=CAU",EL CAMINO TV
 https://5d32e2b9b7eed.streamlock.net:4443/ectv/ectv/playlist.m3u8
-#EXTINF:-1,ECUAVISA
-https://redirector.rudo.video/hls-video/c54ac2799874375c81c1672abb700870537c5223/ecuavisaqo/ecuavisaqo/.m3u8
 #EXTINF:-1,TLNOVELAS
 http://streamingtv.vip:8080/AndRen26/FjQXmT9vLBpS/63200
 #EXTINF:-1,LAS ESTRELLAS
@@ -67,6 +65,8 @@ https://channel01.akamaized.net/hls/live/2022749/event01/index.m3u8
 http://168.227.22.18:1935/live/mobile-014/playlist.m3u8
 #EXTINF:-1,RCN
 http://streamingtv.vip:8080/AndRen26/FjQXmT9vLBpS/69266
+#EXTINF:-1 ,TELEMUNDO INTERNACIONAL
+http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://alianzafc.com.sv/wp-content/uploads/2023/04/ColorLogoTCS.png",TCS PLUS
 https://telecorporacion.cdn.vustreams.com/live/d17513a3-9de2-47e3-b15a-899fd5f5877e/live.isml/live-audio_0=64000-video=2000000.m3u8
 #EXTINF:-1 tvg-logo="https://wowelsalvador.com/imagen/logo2.png",WOW TV
@@ -77,8 +77,6 @@ http://168.227.22.18:1935/live/mobile-113/playlist.m3u8
 https://www.yupi.live:1936/tvmigente/tvmigente/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2018/02/TRV-El-Salvador-en-vivo-Online.png",TRV
 http://64.71.148.2:1935/latin/encoder44/playlist.m3u8
-#EXTINF:-1 ,TELEMUNDO INTERNACIONAL
-http://168.227.22.18:1935/live/mobile-152/playlist.m3u8
 #EXTINF:-1,UNIVISION
 http://168.227.22.18:1935/live/mobile-045/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_UniM%C3%A1s.svg/1200px-Logo_UniM%C3%A1s.svg.png",UNIMAS
@@ -111,10 +109,10 @@ http://168.227.22.18:1935/live/mobile-016/playlist.m3u8
 http://168.227.22.18:1935/live/mobile-004/playlist.m3u8
 #EXTINF:-1 ,STUDIO UNIVERSAL
 http://168.227.22.18:1935/live/mobile-026/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://www.periodicoequilibrium.com/wp-content/uploads/2014/03/Captura9.jpg",TVCA57
-https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1,TNT
 http://168.227.22.18:1935/live/mobile-074/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://www.periodicoequilibrium.com/wp-content/uploads/2014/03/Captura9.jpg",TVCA57
+https://ssh101.bozztv.com/ssh101/tvcaelsalvador/playlist.m3u8
 #EXTINF:-1,CINEMAX
 http://live1.cl.cdn.lla.vtrplay.com/cinemaxhdchi/vxfmt=dp/playlist.m3u8?device_profile=STB_HLS_VCAS_LIVE_HD
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/SpaceLogo.svg/2560px-SpaceLogo.svg.png",SPACE CHANNEL
